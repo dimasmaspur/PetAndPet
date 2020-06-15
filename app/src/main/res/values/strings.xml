@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PetAndPet</string>
+    <string name="title_home">Beranda</string>
+    <string name="title_dashboard">Toko Peliharaan</string>
+    <string name="title_notifications">Tentang Kami</string>
+    <string name="beranda">Mau Mudik atau berpergian yang cukup lama ?\n\nSebaiknya Peliharan anda di titipkan dan kami menyediakan beberapa petshop yang baik dan aman</string>
+    <string name="tentang">Kami Menyediakan Lokasi Petshop terdekat dengan mu,\n\nAnda dapat mencari petshop terdekat secara mudah.</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
